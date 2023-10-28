@@ -2,7 +2,6 @@ import discord
 from mwEmbedStats import create_stats_embed
 from mwPlayerCount import handle_player_count_command
 from mwCompare import compare_stats
-from mwLeaderboardsa import get_leaderboard, display_leaderboard
 
 intents = discord.Intents.all()
 
