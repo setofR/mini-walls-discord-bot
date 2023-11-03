@@ -4,4 +4,4 @@
 </div>
 A discord bot which provides extensive insights into Mini Walls stats.
 
-# WIP
+<h2>How to install</h2>
