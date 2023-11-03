@@ -5,3 +5,4 @@
 A discord bot which provides extensive insights into Mini Walls stats.
 
 <h2>How to install</h2>
+    <h3>Packages</h3>
