@@ -5,5 +5,12 @@
 <h2>About</h2>
     <p>A discord bot which provides extensive insights into Mini Walls stats.</p>
 
-<h2>How to install</h2>
-    <h3>Packages</h3>
+
+## Commands
+
+Stats
+`.s <player> [-ext]`
+Use -ext for extended list of player stats
+
+Compare
+`.c <player1> <player2>`
